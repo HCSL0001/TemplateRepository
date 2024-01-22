@@ -5,4 +5,4 @@ express的安装
 npm i express
 
 mongodb的安装
-npm mongoose
+npm i mongoose
